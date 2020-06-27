@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.15.0"
+  },
+  "name": "apollo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
