@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "apollo-server": "^2.15.0"
+    "apollo-server": "^2.25.4"
   },
   "name": "apollo",
   "version": "1.0.0",
